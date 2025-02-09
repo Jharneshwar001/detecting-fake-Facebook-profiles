@@ -1,2 +1,2 @@
-# detecting-fake-Facebook-profiles
-Developed a Facebook profile detection model using Python, scikit-learn, and imblearn. Utilized Random Forest classifier with GridSearchCV for hyperparameter tuning, SMOTE for handling class imbalance, and feature engineering techniques to identify fraudulent accounts based on user behavior, network activity, and profile information.
+# Detecting-fake-Facebook-profiles
+Engineered a fake profile detection model leveraging a Random Forest classifier and GridSearchCV for hyperparameter optimization, achieving 99.5% accuracy in identifying fraudulent Facebook accounts. Utilized Python, Pandas, and machine learning techniques to analyze user profile features, significantly reducing spam and fraudulent activities. The project is documented on GitHub, showcasing the end-to-end process from data analysis to model deployment, including the GridSearchCV optimization strategy.
